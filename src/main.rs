@@ -25,6 +25,9 @@ fn main() {
     // defining_shared_behavior_with_trait_10_2::run();
     // writing_automated_tests::run();
     // cli_program::run();
-    iterators_and_closures::run();
+    // iterators_and_closures::run();
+    // iterators_and_closures::run2();
+    // iterators_and_closures::run_borrowable();
+    iterators_and_closures::run_mutable_borrowable();
 }
 
