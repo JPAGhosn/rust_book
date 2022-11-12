@@ -1,6 +1,6 @@
 #[allow(unused_imports)]
 use rust_book::hello_cargo_1;
-use rust_book::programming_a_guessing_game_2;
+use rust_book::{programming_a_guessing_game_2, smart_pointers};
 use rust_book::common_programming_concepts_3;
 use rust_book::understanding_ownership_4;
 use rust_book::using_structs_to_structure_related_data_5;
@@ -28,6 +28,10 @@ fn main() {
     // iterators_and_closures::run();
     // iterators_and_closures::run2();
     // iterators_and_closures::run_borrowable();
-    iterators_and_closures::run_mutable_borrowable();
+    // iterators_and_closures::run_mutable_borrowable();
+    // iterators_and_closures::run_movable();
+    // iterators_and_closures::run_sort_by_key_example();
+    // iterators_and_closures::run_iterator();
+    smart_pointers::run();
 }
 

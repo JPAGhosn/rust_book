@@ -13,3 +13,4 @@ pub mod defining_shared_behavior_with_trait_10_2;
 pub mod writing_automated_tests;
 pub mod cli_program;
 pub mod iterators_and_closures;
+pub mod smart_pointers;
